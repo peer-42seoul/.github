@@ -4,6 +4,9 @@
 ## [개발백서](https://drive.google.com/file/d/1yPsjwCqVCJryq3sThUn4MguhNuakDRFa/view?usp=drive_link)
 [개발백서 링크](https://drive.google.com/file/d/1yPsjwCqVCJryq3sThUn4MguhNuakDRFa/view?usp=drive_link)
 
+## [개발진블로그](https://peer-study.oopy.io/2d26b877-827a-490f-bead-10144398d3a1)
+[개발진블로그](https://peer-study.oopy.io/2d26b877-827a-490f-bead-10144398d3a1)
+
 # 컨셉 아트
 ![peer1](https://github.com/joonseong11/Peer-Frontend/assets/87654307/2a92d7df-4595-421a-841a-553c32539ed7)
 ![peer2](https://github.com/joonseong11/Peer-Frontend/assets/87654307/12d1fd8a-a334-40bc-8ded-e1f6837f5f1e)
